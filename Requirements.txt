@@ -1,0 +1,10 @@
+customtkinter
+scapy
+matplotlib
+tk
+plyer
+win10toast
+python-whois
+requests
+sockets
+mysql-connector-python
